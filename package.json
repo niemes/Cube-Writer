@@ -1,0 +1,26 @@
+{
+  "name": "cube-writer",
+  "version": "0.0.1",
+  "description": "Nodejs SpeedWriter Game",
+  "main": "speedwriter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niemes/Cube-Writer.git"
+  },
+  "keywords": [
+    "speedwriter"
+  ],
+  "author": "Niemes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niemes/Cube-Writer/issues"
+  },
+  "homepage": "https://github.com/niemes/Cube-Writer#readme",
+  "dependencies": {
+    "autocomplete": "0.0.1",
+    "terminal-kit": "^1.13.13"
+  }
+}
